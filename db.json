@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "cabName": "Uber GO",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$170.17",
+      "custID": "456"
+    },
+    {
+      "id": 2,
+      "cabName": "Uber Auto",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$70.17",
+      "custID": "156"
+    },
+    {
+      "id": 3,
+      "cabName": "Uber Moto",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$17.17",
+      "custID": "356"
+    },
+    {
+      "id": 4,
+      "cabName": "Uber Moto",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$17.17"
+    },
+    {
+      "id": 5,
+      "cabName": "Uber Moto",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$17.17"
+    },
+    {
+      "id": 6,
+      "cabName": "Uber Moto",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$17.17"
+    },
+    {
+      "id": 7,
+      "cabName": "Uber Moto",
+      "timming": "8.46pm",
+      "distance": "4 min away",
+      "price": "$17.17"
+    }
+  ],
+
+  "CompletedRideData": [
+    {
+      "id": 1,
+      "startingDate": "Nov 10",
+      "startTimming": "04.30PM",
+      "endingDate": "Nov 10",
+      "endTimming": "05:30PM",
+      "startingPoint": "Mirpur 1 , Dhaka",
+      "destination": "Science Lab Bus Station",
+      "travelTime": "1h 0min",
+      "travelCost": "$126.9",
+      "rideID": 123
+    },
+    {
+      "id": 2,
+      "startingDate": "Nov 10",
+      "startTimming": "04.30PM",
+      "endingDate": "Nov 10",
+      "endTimming": "05:30PM",
+      "startingPoint": "Mirpur 1 , Dhaka",
+      "destination": "Science Lab Bus Station",
+      "travelTime": "1h 0min",
+      "travelCost": "$126.9"
+    },
+    {
+      "id": 3,
+      "startingDate": "Nov 10",
+      "startTimming": "04.30PM",
+      "endingDate": "Nov 10",
+      "endTimming": "05:30PM",
+      "startingPoint": "Mirpur 1 , Dhaka",
+      "destination": "Science Lab Bus Station",
+      "travelTime": "1h 0min",
+      "travelCost": "$126.9"
+    },
+    {
+      "id": 4,
+      "startingDate": "Nov 10",
+      "startTimming": "04.30PM",
+      "endingDate": "Nov 10",
+      "endTimming": "05:30PM",
+      "startingPoint": "Mirpur 1 , Dhaka",
+      "destination": "Science Lab Bus Station",
+      "travelTime": "1h 0min",
+      "travelCost": "$126.9"
+    }
+  ]
+}
